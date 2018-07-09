@@ -1,4 +1,5 @@
 # BattleTankGameInUnreal
 Open-World head-to-head battle game with tanks
 ## Lecture List Examples
-* Intro, Notes & Assets
+* Chapter 1. Intro, Notes & Assets
+* Chapter 2: Game Design
